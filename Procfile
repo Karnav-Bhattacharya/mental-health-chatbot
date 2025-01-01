@@ -1,1 +1,1 @@
-web: gunicorn app.main:app --workers 4 --bind 0.0.0.0:8000
+gunicorn --chdir C:\Code\mental_health_chatbot02 app.main:app --workers 4 --bind 0.0.0.0:8000
