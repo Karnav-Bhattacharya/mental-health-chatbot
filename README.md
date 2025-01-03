@@ -6,10 +6,6 @@
 	<em>Empower Your Mind: Chatbot for Mental Wellness</em>
 </p>
         <p>
-	<img src="https://img.shields.io/github/license/Karnav-Bhattacharya/mental-health-chatbot.git?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/Karnav-Bhattacharya/mental-health-chatbot.git?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/Karnav-Bhattacharya/mental-health-chatbot.git?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/Karnav-Bhattacharya/mental-health-chatbot.git?style=default&color=0080ff" alt="repo-language-count">
 </p>
         <p><!-- default option, no dependency badges. -->
 </p>
