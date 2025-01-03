@@ -1,7 +1,6 @@
 <div align="left">
-    <img src="mental-health-chatbot.git.png" width="40%" align="left" style="margin-right: 15px"/>
     <div style="display: inline-block;">
-        <h2 style="display: inline-block; vertical-align: middle; margin-top: 0;">MENTAL-HEALTH-CHATBOT.GIT</h2>
+        <h2 style="display: inline-block; vertical-align: middle; margin-top: 0;">MENTAL HEALTH CHATBOT</h2>
         <p>
 	<em>Empower Your Mind: Chatbot for Mental Wellness</em>
 </p>
