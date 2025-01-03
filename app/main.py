@@ -64,6 +64,8 @@ class ChatServer:
             }
 
     def send_message(self):
+        if not request.is_json:
+            return jsonify({'error': 'Content-Type must be application/json'}), 400
         try:
             data = request.get_json()
             if not data or 'message' not in data:
