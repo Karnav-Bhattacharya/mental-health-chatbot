@@ -104,10 +104,8 @@ class ChatServer:
                 'error': 'An error occurred while processing your message'
             }), 500
 
-def create_app():
-    server = ChatServer()
-    return server.app
+server = ChatServer()
+app = server.app
 
 if __name__ == '__main__':
-    app = create_app()
     app.run(debug=True)
